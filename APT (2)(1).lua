@@ -2,7 +2,7 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
     Title = "DL脚本",
-    Text = "DL正在加载中",
+    Text = "DL正在加载",
     Duration = 5, 
 })
 print("反挂机开启")
